@@ -17,12 +17,15 @@ public class Practica12 {
         System.out.println("Hola Mundo");
         System.out.println("NN");
         
-        int a,b,c;
+        int a,b,c,d;
         
         a=2; b=3;
         c=a+b;
+        d=b-a;
+        System.out.println("Resultado suma: " +c);
+        System.out.println("Resultado resta: " +d);
         
-        System.out.println("Resultado: " +c);
+        
         
     }
     
