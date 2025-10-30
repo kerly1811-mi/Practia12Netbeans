@@ -21,18 +21,12 @@ public class Practica12 {
         
         a=2; b=3;
         c=a+b;
-
         d=b-a;
         e=a*b;
         
         System.out.println("Resultado suma: " +c);
         System.out.println("Resultado resta: " +d);
-
-        System.out.println("Resultado multiplicacion: " +d);
-        
-        
-        System.out.println("Resultado: " +c);
-            System.out.println("L");
+        System.out.println("Resultado multiplicacion: " +e);
         
     }
     
