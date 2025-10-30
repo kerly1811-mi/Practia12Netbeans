@@ -28,6 +28,8 @@ public class Practica12 {
 
         
         
+        System.out.println("Resultado: " +c);
+            System.out.println("L");
         
     }
     
