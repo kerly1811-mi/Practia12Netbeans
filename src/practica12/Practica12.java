@@ -16,6 +16,14 @@ public class Practica12 {
     public static void main(String[] args) {
         System.out.println("Hola Mundo");
         System.out.println("NN");
+        
+        int a,b,c;
+        
+        a=2; b=3;
+        c=a+b;
+        
+        System.out.println("Resultado: " +c);
+        
     }
     
 }
