@@ -21,6 +21,7 @@ public class Practica12 {
         
         a=2; b=3;
         c=a+b;
+
         d=b-a;
         System.out.println("Resultado suma: " +c);
         System.out.println("Resultado resta: " +d);
